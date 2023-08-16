@@ -20,12 +20,27 @@ Sunbase Assignment is a powerful tool that bridges the gap between API endpoints
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/harshitissm/Sunbase_Assignment.git
+   cd Sunbase_Assignment
+
+## Contributing
+
+We welcome contributions from the community! If you're interested in enhancing [Your Project Name], follow these steps:
+
+- **1 Fork the Repository**: Create your personal fork of the repository.
+
+- **2 Create a Feature Branch**: Begin a new branch for your feature or enhancement.
+
+- **3 Make Enhancements**: Make improvements and additions to the project.
+
+- **4 Submit a Pull Request**: Submit your changes for review, and we'll collaborate on merging them.
+
+## Contact
+
+Have questions or feedback? Don't hesitate to reach out to us at goyalharshit120@gmail.com.
 
