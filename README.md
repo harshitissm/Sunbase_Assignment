@@ -18,7 +18,7 @@ Sunbase Assignment is a powerful tool that bridges the gap between API endpoints
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
+- [Features Walkthrough](#features-walkthrough)
 - [Contributing](#contributing)
 
 ## Installation
@@ -27,6 +27,17 @@ Sunbase Assignment is a powerful tool that bridges the gap between API endpoints
    ```bash
    git clone https://github.com/harshitissm/Sunbase_Assignment.git
    cd Sunbase_Assignment
+
+## Usage
+
+After cloning the project, open the project in IDE which supports development for spring boot projects, and simply run the project, now have to explicitly call for 
+"localhost:8080/login" in your browser which will take you to the login page of the project.
+
+## Features Walkthrough
+
+- **Logging In**: Users can simply log in with a login_id and password which will be authenticated by the server, after successful authentication users will be directed to the customer's page where they can see the list of customers.
+
+- **Exploring Endpoints**: Users can explore the other endpoints, the add customer button which will take you to add customer page where the user can create a new customer by using create endpoint, the delete button after every customer lets you delete that specific user using the delete endpoint, and the update button after every customer lets you update that specific customer using the update endpoint.
 
 ## Contributing
 
