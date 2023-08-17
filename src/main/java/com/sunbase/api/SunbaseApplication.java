@@ -17,6 +17,6 @@ public class SunbaseApplication {
 	public RestTemplate restTemplate() {
 		RestTemplate restTemplate = new RestTemplate();
 		restTemplate.getMessageConverters().add(new MappingJackson2HttpMessageConverter());
-		return new RestTemplate();
+		return restTemplate;
 	}
 }
